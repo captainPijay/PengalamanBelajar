@@ -5,7 +5,7 @@ Repository ini merupakan pengalaman belajar saya di dicoding
 - saya belajar mengenai dasar dasar git dengan github
 - saya belajar mengenai branch, readme, release version
 - penambahan ke materi selanjutnya di bagian Menambahkan Kembali Progres Belajar
-**14 Juni 2021**  
+**14 Juni 2021** 
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
