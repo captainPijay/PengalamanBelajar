@@ -1,5 +1,5 @@
 # PengalamanBelajar
-Repository ini merupakan pengalaman belajar saya di dicoding
+Repository ini merupakan pengalaman belajar saya di dicodingg
 -
 8/10/2023
 - saya belajar mengenai dasar dasar git dengan github
